@@ -1,2 +1,2 @@
 # OSFclassification
-This repository contains files regarding my thesis project on classification of documents provided by the OSF.
+This repository contains files regarding my thesis project on classification of documents provided by the OSF. These documents, of various types, are written by various municipalities through the Netherlands. Although some municipalities, like Utrecht, developed the agreeable habit of labeling their documents by the type ('motion', 'agendapoint', 'meeting', etc.), many did not. The goal of this project is to find the best machine-learning algorythm to classify documents into their accesory type, with municipalities as Utrecht as pre-labeled train- and test-set.
